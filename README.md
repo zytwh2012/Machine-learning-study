@@ -1,2 +1,2 @@
-# Machine-learning-study-
+# Machine-learning-study
 Study journey begins.
