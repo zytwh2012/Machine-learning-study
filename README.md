@@ -1,2 +1,2 @@
-# Machine-learning-study
+# TensorFlow-study
 Study journey begins.
